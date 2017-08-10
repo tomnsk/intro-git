@@ -4,5 +4,5 @@ Git‚Ì—ûK‚ğ‚µ‚Ä‚¢‚«‚Ü‚·
 /git commit
 /rm
 /git status
-
+/gitdiff
 
